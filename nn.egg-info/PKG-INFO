@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: nn
+Version: 0.0.1
+Author: reddolivia@gmail.com
+Requires-Dist: pickle
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: logger
+Requires-Dist: dill
+Requires-Dist: xgboost
+Requires-Dist: catboost
+Dynamic: author
+Dynamic: requires-dist
